@@ -11,7 +11,9 @@ Or lists:
 * c
 
 [time=5]
-== Task
+== My first task
+
+The first sentence of a task describes some of the steps.
 
 // Add your own task here
 
