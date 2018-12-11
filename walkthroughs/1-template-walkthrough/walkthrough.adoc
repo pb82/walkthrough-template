@@ -1,6 +1,14 @@
-= Template Walkthrough
+= My first Walkthrough
 
-// This is a template meant to be used as a starting point for walkthrough development
+This is a short introduction sentence.
+
+This paragraph is longer and reveals some details about the walkthrough to the user. You even use multiple sentences.
+
+Or lists:
+
+* a
+* b
+* c
 
 [time=5]
 == Task
