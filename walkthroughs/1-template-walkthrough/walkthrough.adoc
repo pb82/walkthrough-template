@@ -17,6 +17,12 @@ The first sentence of a task describes some of the steps.
 
 // Add your own task here
 
-=== Step
+=== My first Procedure
+
+A quick word about the procedure the user is about to follow
+
+. First step
+. Second step
+. Third step
 
 // Add steps to your task
